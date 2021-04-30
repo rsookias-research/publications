@@ -1,0 +1,77 @@
+Below are listed all of my articles and their data. They are all provided as either DOIs to open access data/documents or links to files on GitHub.
+
+***Peer-reviewed articles***
+
+Sookias RB, Dilkes D, Sobral G, Smith RMH, Wolvaardt FP, Arcucci AB, Bhullar B-AS, Werneburg I. 2020. The craniomandibular anatomy of the early archosauriform Euparkeria capensis and the dawn of the archosaur skull. Royal Society Open Science. 
+
+Publisher DOI (open access): 10.1098/rsos.200116
+Supplement: 10.5281/zenodo.3887056
+
+Sookias RB. 2019. Exploring the effects of character construction and choice, outgroups, and analytical method on phylogenetic inference from discrete characters in extant crocodilians. Zoological Journal of the Linnean Society 189: 1-30.
+
+Publisher DOI (closed access): 10.1093/zoolinnean/zlz015
+Main text (pdf on GitHub): https://github.com/rsookias-research/publications/blob/main/Sookias%202019%20Character%20construction%20extant%20crocodilians.pdf
+Supplement (zip): 10.17605/OSF.IO/MGH48
+Additional spreadsheet highlighting differences in scoring of Bernissartia from the matrix of Narváez et al. 2016 (ods): 10.5281/zenodo.3522887
+All my photographs of Bernissartia (zip): 10.17605/OSF.IO/MGH48
+
+Butler RJ, Ezcurra MD, Liu J, Sookias RB, Sullivan C. 2019. The anatomy and phylogenetic position of the erythrosuchid archosauriform Guchengosuchus shiguaiensis from the earliest Middle Triassic of China. PeerJ 7:e6435 . 
+
+Publisher DOI (open access): 10.7717/peerj.6435
+
+Sookias RB, Passmore S, Atkinson QD. 2018. Deep cultural ancestry and human development indicators across nation states. Royal Society Open Science. 
+
+Publisher DOI (open access): 10.1098/rsos.171411
+
+Foth C, Ezcurra MD, Sookias RB, Brusatte SL, Butler RJ. 2016. Unappreciated diversification of stem archosaurs during the Middle Triassic predated the dominance of dinosaurs. BMC Evolutionary Biology 16:188. 
+
+Publisher DOI (open access): 10.1186/s12862-016-0761-6
+
+Sobral G, Sookias RB, Bhullar B-AS, Smith R, Butler RJ, Müller J. 2016. New information on the braincase and inner ear of Euparkeria capensis Broom: implications for diapsid and archosaur evolution. Royal Society Open Science 3:160072. 
+
+Publisher DOI (open access): 10.1098/rsos.160072
+Supplementary figures do not appear to be downloading correctly and I have thus made them available here: 10.5281/zenodo.3522901
+
+Sookias RB. 2016. The relationships of the Euparkeriidae and the rise of Archosauria. Royal Society Open Science 3:150674. 
+
+Publisher DOI (open access): 10.1098/rsos.150674
+
+Sookias RB, Sullivan, C., Liu, J. & Butler, R. J. 2014. Systematics of putative euparkeriids (Diapsida: Archosauriformes) from the Triassic of China. PeerJ. 2:e658. 
+
+Publisher DOI (open access): 10.7717/peerj.658
+
+Sookias RB, Böhmer C, Clack JA. 2014. Redescription and phylogenetic analysis of an enigmatic Pennsylvanian (Late Carboniferous) tetrapod from Nova Scotia, and the lability of Meckelian jaw ossification. PLoS ONE 9:e109717. 
+
+Publisher DOI (open access): 10.1371/journal.pone.0109717
+
+Sookias RB, Sennikov AG, Gower, DJ, Butler RJ. 2014. The monophyly of Euparkeriidae (Reptilia: Archosauriformes) and the origins of crown Archosauria: a revision of Dorosuchus neoetus from the Middle Triassic of Russia. Palaeontology 57: 1177-1202. 
+
+Publisher DOI (open access): 10.1111/pala.12110
+
+Butler RJ, Sullivan C, Ezcurra MD, Liu J, Lecuona A, Sookias RB. 2014. New clade of enigmatic early archosaurs yields insights into early pseudosuchian phylogeny and the biogeography of the archosaur radiation. BMC Evolutionary Biology 14:128. 
+
+Publisher DOI (open access): 10.1186/1471-2148-14-128
+
+Sookias RB, Budd GE, Kear BP. 2013. Mesozoic fossil sustainability: synoptic case studies of resource management. GFF 135:131-143. 
+
+Publisher DOI (closed access): 10.1080/11035897.2013.776100
+Main text (pdf on GitHub): https://github.com/rsookias-research/publications/blob/main/Sookias%20et%20al.%202013%20fossil%20management.pdf
+Supplement (ods): 10.5281/zenodo.3523361
+
+Sookias RB, Butler RJ. 2013. Euparkeriidae. In: Anatomy, Phylogeny and Palaeobiology of Early Archosaurs and their Kin, Nesbitt, S. J., Desojo, J. B. & Irmis, R. B. (eds). Geological Society, London, Special Publications 379:35-48. 
+
+Publisher DOI (closed access): 10.1144/SP379.6
+Main text (pdf on GitHub): https://github.com/rsookias-research/publications/blob/main/Sookias%20and%20Butler%202013%20Euparkeriidae.pdf
+
+Sookias RB, Benson RBJ, Butler RJ. 2012. Biology, not environment, drives major patterns in maximum tetrapod body size through time. Biology Letters 8:674-677. 
+
+Publisher DOI (open access): 10.1098/rsbl.2012.0060
+
+Sookias RB, Butler RJ, Benson RBJ. 2012 Rise of dinosaurs reveals major body size transitions are driven by passive processes of trait evolution. Proceedings of the Royal Society B 279:2180-2187. 
+
+Publisher DOI (open access): 10.1098/rspb.2011.2441
+
+
+***Non-peer-reviewed preprints***
+
+Sookias RB. 2019, Feb. 13. The concept of homoiology and its potential application in palaeontological phylogenetics. PaleorXiv. https://doi.org/10.31233/osf.io/5swd6 
